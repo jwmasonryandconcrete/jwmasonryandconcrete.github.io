@@ -37,7 +37,7 @@
               <div class="w3-container w3-center">  </div>
         <![endif]-->
         <header class="w3-display-container w3-content" style="width:100%" id="home">
-            <img class="w3-image" src="skyline.jpg" alt="Holyoke" style="width:100%">
+            <img class="w3-image" src="skyline.jpg" alt="Holyokes" style="width:100%">
             
           </header>
           
