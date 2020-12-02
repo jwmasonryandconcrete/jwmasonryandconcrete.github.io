@@ -50,7 +50,7 @@
            <h3 class="w3-text-white w3-center" style="font-family: 'Patua One', cursive;">Contact Us For A Free Estimate : </h3>
             
            <div class="w3-container w3-text-white w3-center"><a href="tel:1-774-235-4928" class="w3-btn w3-animate-left"><i class="material-icons " style="font-size:32px;color:green;">phone</i></a><br />1-774-235-4928</div>
-            <div class="w3-container w3-text-white w3-center"><a href="mailto:jwmasonryconcrete@gmail.com" class="w3-btn " ><i class="material-icons " style="font-size:32px;color:blue;">email</i> </a> <br />jwmasonryconcrete@gmail.com</div>
+            <div class="w3-container w3-text-white w3-center"><a href="mailto:jwmasonryconcrete@gmail.com" class="w3-btn w3-animate-left" ><i class="material-icons " style="font-size:32px;color:blue;">email</i> </a> <br />jwmasonryconcrete@gmail.com</div>
           
        
       </div>
