@@ -45,7 +45,7 @@
             
           <div class="w3-container w3-padding-32 w3-round-xxlarge w3-center" style="background-color:#8c6435;max-width:400px;margin:auto" id="contact">
           
-          <img src="logo5.PNG" class="w3-animate-top" style="width:100%;max-width:500px" alt="JW Masonry & Concrete">
+          <img src="logo5.png" class="w3-animate-top" style="width:100%;max-width:500px" alt="JW Masonry & Concrete">
           
            <h3 class="w3-text-white w3-center" style="font-family: 'Patua One', cursive;">Contact Us For A Free Estimate : </h3>
             
