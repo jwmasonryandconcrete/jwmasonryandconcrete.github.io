@@ -37,7 +37,7 @@
               <div class="w3-container w3-center">  </div>
         <![endif]-->
         <header class="w3-display-container w3-content" style="width:100%" id="home">
-            <img class="w3-image" src="skyline.jpg" alt="Holyokes" style="width:100%">
+            <img class="w3-image" src="https://jwmasonryandconcrete.github.io/skyline.jpg" alt="Holyokes" style="width:100%">
             
           </header>
           
@@ -67,7 +67,7 @@
   <div class="w3-third l4 m8 w3-margin-bottom">
     <div class="w3-display-container">
       <div class="w3-display-topleft w3-black w3-padding">Brickwork</div>
-      <img src="fireplace.jpg" alt="Chimney" style="width:85%">
+      <img src="https://jwmasonryandconcrete.github.io/fireplace.jpg" alt="Chimney" style="width:85%">
     </div>
   </div>
   <div class="w3-third l4 m8 w3-margin-bottom">
@@ -90,20 +90,20 @@
     <div class="w3-third  w3-margin-bottom">
   <div class="w3-content w3-display-container">
     <div class="w3-display-topleft w3-black w3-padding">Brickwork</div>
-    <img class="mySlides1" src="brick3.jpg" style="width:100%;height:100%">
-    <img class="mySlides1" src="brick1.jpg" style="width:100%;height:100%">
-    <img class="mySlides1" src="brick2.jpg" style="width:100%;height:100%">
-    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
-    <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
+    <img class="mySlides1" src="https://jwmasonryandconcrete.github.io/brick3.jpg" style="width:100%;height:100%">
+    <img class="mySlides1" src="https://jwmasonryandconcrete.github.io/brick1.jpg" style="width:100%;height:100%">
+    <img class="mySlides1" src="https://jwmasonryandconcrete.github.io/brick2.jpg" style="width:100%;height:100%">
+    <button class="w3-button w3-https://jwmasonryandconcrete.github.io/black w3-display-left" onclick="plusDivs(-1, 0)">&#10094;</button>
+    <button class="w3-button w3-https://jwmasonryandconcrete.github.io/black w3-display-right" onclick="plusDivs(1, 0)">&#10095;</button>
   </div> </div>
   <div class="w3-third w3-margin-bottom">
   <div class="w3-content w3-display-container">
     <div class="w3-display-topleft w3-black w3-padding">Concrete</div>
-    <img class="mySlides2" src="concrete2.jpg" style="width:100%;height:100%">
-    <img class="mySlides2" src="concrete3.jpg" style="width:100%;height:100%">
-    <img class="mySlides2" src="concrete4.jpg" style="width:100%;height:100%">
-    <img class="mySlides2" src="concrete5.jpg" style="width:100%;height:100%">
-    <img class="mySlides2" src="concrete6.jpg" style="width:100%;height:100%">
+    <img class="mySlides2" src="https://jwmasonryandconcrete.github.io/concrete2.jpg" style="width:100%;height:100%">
+    <img class="mySlides2" src="https://jwmasonryandconcrete.github.io/concrete3.jpg" style="width:100%;height:100%">
+    <img class="mySlides2" src="https://jwmasonryandconcrete.github.io/concrete4.jpg" style="width:100%;height:100%">
+    <img class="mySlides2" src="https://jwmasonryandconcrete.github.io/concrete5.jpg" style="width:100%;height:100%">
+    <img class="mySlides2" src="https://jwmasonryandconcrete.github.io/concrete6.jpg" style="width:100%;height:100%">
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 1)">&#10095;</button>
   </div></div>
@@ -111,9 +111,9 @@
   <div class="w3-third w3-margin-bottom">
     <div class="w3-content w3-display-container">
       <div class="w3-display-topleft w3-black w3-padding">Stonework</div>
-      <img class="mySlides3" src="stonework1.jpg" style="width:100%;height:100%">
-      <img class="mySlides3" src="stonework2.jpg" style="width:100%;height:100%">
-      <img class="mySlides3" src="stonework3.jpg" style="width:100%;height:100%">
+      <img class="mySlides3" src="https://jwmasonryandconcrete.github.io/stonework1.jpg" style="width:100%;height:100%">
+      <img class="mySlides3" src="https://jwmasonryandconcrete.github.io/stonework2.jpg" style="width:100%;height:100%">
+      <img class="mySlides3" src="https://jwmasonryandconcrete.github.io/stonework3.jpg" style="width:100%;height:100%">
       
       <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1, 2)">&#10094;</button>
       <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1, 2)">&#10095;</button>
