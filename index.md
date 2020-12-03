@@ -121,7 +121,7 @@
   
   </div>
 
-       <!-- About Section -->
+       <!-- About Section d -->
        <div class="w3-container w3-padding-32" style="background-color:#8c6435"   id="about" >
 
         <p style="font-family: 'Patua One', cursive;">
