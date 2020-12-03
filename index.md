@@ -127,7 +127,7 @@
         <p style="font-family: 'Patua One', cursive;">
           With over 25 years of professional experience, JW Masonry & Concrete will ensure our client's expectations are fully satisfied. <br /><br />
  
-          Highly professionally fully insured all weather crew are capable of meeting and exceeding all clients demands in relation to : <br />
+          Highly professional fully insured all weather crew are capable of meeting and exceeding all clients demands in relation to : <br />
 
           <ul class="w3-ul" style="font-family: 'Patua One', cursive;">
             <li>Patios</li>
